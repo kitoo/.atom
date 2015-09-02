@@ -1,0 +1,47 @@
+"*":
+  "exception-reporting":
+    userId: "a8b7b6d3-6f14-64e4-d087-9fc331283b24"
+  welcome:
+    showOnStartup: false
+  core:
+    ignoredNames: [
+      ".git"
+      ".hg"
+      ".svn"
+      ".DS_Store"
+      "._*"
+      ".Thumbs.db"
+    ]
+  editor:
+    invisibles: {}
+    softWrap: true
+    softWrapAtPreferredLineLength: true
+    fontFamily: "\"ＭＳ ゴシック\""
+    tabLength: 4
+    showInvisibles: true
+    showIndentGuide: true
+    fontSize: 18
+  linter: {}
+  minimap:
+    plugins:
+      "color-highlight": true
+      "find-and-replace": true
+  "atom-color-highlight": {}
+  "linter-flexpmd": {}
+  "japanese-wrap":
+    characterWidth: {}
+  "linter-jshint": {}
+  "tree-view":
+    hideVcsIgnoredFiles: true
+    hideIgnoredNames: true
+  "string-looper": {}
+  "save-session":
+    dataSaveFolder: "C:\\Users\\fx30146\\.atom\\packages\\save-session\\projects"
+  "highlight-column": {}
+  "one-light-ui": {}
+  "trailing-spaces":
+    enableForCursorLines: true
+  "one-dark-ui": {}
+  "ctags-status": {}
+  "autocomplete-plus": {}
+  "git-plus": {}

@@ -1,0 +1,4 @@
+; ÉvÉçÉLÉV
+https-proxy=http://proxy.kdc.fujixerox.co.jp:8080
+http-proxy=http://proxy.kdc.fujixerox.co.jp:8080
+proxy=http://proxy.kdc.fujixerox.co.jp:8080
