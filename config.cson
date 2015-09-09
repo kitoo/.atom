@@ -12,6 +12,9 @@
       "._*"
       ".Thumbs.db"
     ]
+    disabledPackages: [
+      "atom-color-highlight"
+    ]
   editor:
     invisibles: {}
     softWrap: true
@@ -20,12 +23,16 @@
     tabLength: 4
     showInvisibles: true
     showIndentGuide: true
-    fontSize: 18
+    fontSize: 16
   linter: {}
   minimap:
     plugins:
       "color-highlight": true
       "find-and-replace": true
+      "minimap-hide": true
+      "git-diff": true
+      "minimap-autohide": true
+      pigments: true
   "atom-color-highlight": {}
   "linter-flexpmd": {}
   "japanese-wrap":

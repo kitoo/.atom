@@ -5,3 +5,5 @@ dev
 packages/
 compile-cache/
 storage/
+/projects.cson
+/bin - ショートカット.lnk
