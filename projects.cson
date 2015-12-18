@@ -1,9 +1,13 @@
-"wiki�\���Q":
-  title: "wiki�\���Q"
+"4wiki":
+  title: "wiki予備群"
   paths: [
-    "D:\\Documents\\1.2.�c�[���̐ݒ�E�K��Ȃ�\\wiki�\���Q"
+    "D:\\Documents\\1.2.ツールの設定・規約など\\wiki予備群"
   ]
-
+"web-app/src":
+  title: "web-app/src"
+  paths: [
+    "D:\\gitRepository\\tracker24\\tracker-webapp\\src"
+  ]
 "ET-976":
   title: "ET-976"
   paths: [
@@ -29,9 +33,18 @@ flash:
   paths: [
     "C:\\pleiades\\workspace_EvidenceTracker_2.3.9\\2.3.7.3-2.3.8.x\\tracker-webapp"
   ]
-
 "Logs-flash":
   title: "Logs-flash"
   paths: [
     "C:\\Users\\fx30146\\AppData\\Roaming\\Macromedia\\Flash Player\\Logs"
+  ]
+"仕様書の改善(2015年)":
+  title: "仕様書の改善(2015年)"
+  paths: [
+    "\\\\lotus.rdh.fujixerox.co.jp\\EvidenceDuo\\EvidenceTracker\\そのた\\仕様書の改善(2015年)"
+  ]
+todo:
+  title: "TODO"
+  paths: [
+    "\\\\vodka.rdh.fujixerox.co.jp\\fx30146-D退避用\\TODO"
   ]

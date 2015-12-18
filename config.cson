@@ -15,16 +15,18 @@
     disabledPackages: [
       "atom-color-highlight"
       "minimap-color-highlight"
+      "incr"
+      "japanese-wrap"
+      "imdone-atom"
     ]
   editor:
     invisibles: {}
     softWrap: true
-    softWrapAtPreferredLineLength: true
     fontFamily: "\"ＭＳ ゴシック\""
     tabLength: 4
     showInvisibles: true
     showIndentGuide: true
-    fontSize: 16
+    fontSize: 13
   linter: {}
   minimap:
     plugins:
@@ -53,3 +55,7 @@
   "ctags-status": {}
   "autocomplete-plus": {}
   "git-plus": {}
+  "linter-eslint":
+    useGlobalEslint: true
+    globalNodePath: "C:\\Program Files\\nodejs"
+  "imdone-atom": {}
